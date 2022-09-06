@@ -3,9 +3,36 @@ id: st1xu
 name: Hello Fork
 file_version: 1.0.2
 app_version: 0.9.5-5
+file_blobs:
+  src/components/HelloWorld.vue: 1976f429d4d9c435b05a35f7bba0e1bf12c152bf
 ---
 
 asdadads
+
+
+
+
+<br/>
+
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/components/HelloWorld.vue
+```vue
+⬜ 7            <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
+⬜ 8              >vue-cli documentation</a
+⬜ 9            >.
+🟩 10         </p>
+🟩 11         <h3>Installed CLI Plugins</h3>
+🟩 12       </div>
+🟩 13     </template>
+🟩 14     
+🟩 15     <script>
+🟩 16     export default {
+⬜ 17       name: "HelloWorld",
+⬜ 18       props: {
+⬜ 19         msg: String,
+```
 
 <br/>
 
